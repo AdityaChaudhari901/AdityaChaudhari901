@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I am A Software Developer</h2>
+<h2 align="left">I am A Software Engineer </h2>
 
 ###
 
